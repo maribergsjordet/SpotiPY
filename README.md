@@ -1,26 +1,49 @@
-# SpotiPY
- A repository for my exam project
- 
-SpotiPY
 
-A brief description of what this project does and who it's for
+# SpotiPY (Exam in PSY-3035)
+The present project has been conducted as part of PSY-3035 Programming and Data Visualization for Researchers. 
 
-An overview of my Spotify streaming during the year of 2024.
+The project has investigated the use of my Spotify account during February-April 2024. I chose to use my Spotify-data from only a period of the year of 2024 due to the large amount of data. 
 
-OBS: Please note that this was made at readme.so/editor
+## Hypotheses
+The following hypotheses were assessed:
 
-How to use
+H1: There are more female artists in my top 10 most played artists in February-April 2024 than male artists.
 
-Just go into the scripts folder and run the notebook titled SpotiPY. Here you should see some graphs about my streaming in Spotify during 2024.
+H2: At least one of my top 6 most played songs in February-April 2024 is by my most played artist.
 
-License
+H3: Zara Larsson remains my most played artist across the three months. 
 
-MIT
+H4: I listen more to music in the morning than in the evening. 
+## Data
+The following information is provided in the dataset that I collected from my Spotify account:
+- Name of song ('trackName')
+- Artist name ('artistName')
+- Date and time of day the song was played ('endTime')
+- Length of song in milliseconds ('msPlayed')
 
-Contributing
+## License
 
-Contributions are always welcome!
+[GNU](https://github.com/maribergsjordet/SpotiPY/blob/main/LICENSE)
 
-See contributing.md for ways to get started.
 
-Please adhere to this project's code of conduct.
+
+
+
+## Authors
+
+Mari Bergsjordet [@maribergsjordet](https://github.com/maribergsjordet)
+
+
+
+
+
+
+## Contributing
+
+If anyone would like to contribute to the project, I would be happy to hear from you at maber7306@uit.no.
+
+## Citation
+
+To cite this project:
+
+Bergsjordet, M. (2025). SpotiPY, https://github.com/maribergsjordet/SpotiPY
