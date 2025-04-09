@@ -1,5 +1,5 @@
 
-# SpotiPY (Exam in PSY-3035)
+# SpotiPY
 The present project has been conducted as part of PSY-3035 Programming and Data Visualization for Researchers. 
 
 The project has investigated the use of my Spotify account during February-April 2024. I chose to use my Spotify-data from only a period of the year of 2024 due to the large amount of data. 
