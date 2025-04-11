@@ -29,7 +29,7 @@ The following information is provided in the dataset that I collected from my Sp
 
 
 
-## Authors
+## Authorship
 
 Mari Bergsjordet [@maribergsjordet](https://github.com/maribergsjordet)
 
@@ -38,7 +38,7 @@ Mari Bergsjordet [@maribergsjordet](https://github.com/maribergsjordet)
 
 
 
-## Contributing
+## Contribution
 
 If anyone would like to contribute to the project, I would be happy to hear from you at maber7306@uit.no.
 
