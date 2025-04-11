@@ -11,7 +11,7 @@ H1: There are more female artists in my top 10 most played artists in February-A
 
 H2: At least one of my top 6 most played songs in February-April 2024 is by my most played artist.
 
-H3: Zara Larsson remains my most played artist across the three months. 
+H3: My most played artist remains constant across the three months. 
 
 H4: I listen more to music in the morning than in the evening. 
 ## Data
